@@ -1,21 +1,24 @@
 # pay_gateway
 V tomto repozitáři najdete 2 zdrojevé kódy.
 
-1. kód index.php ověřuje podpis zprávy ze serveru.
+Kód index.php ověřuje podpis ze serveru.
 <br>
 Zdrojový kód:
-![](/img/1.png)
+<br>
+![](img/1.png)
 <br>
 Odpověď:
-![](/img/2.png)
 <br>
-2. kód p.php posílá echo zprávu, kterou server akceptuje a odpovídá na ní.
+![](img/2.png)
+Kód p.php posílá echo zprávu na server, na kteror server akceptuje a odpovídá a ní.
 <br>
 Zdrojový kód:
-![](/img/p.png)
+<br>
+![](img/p.png)
 <br>
 Odpověď:
-![](/img/p1.png)
 <br>
+![](img/p1.png)
 Odpověď:
-![](/img/p2.png)
+<br>
+![](img/p2.png)
